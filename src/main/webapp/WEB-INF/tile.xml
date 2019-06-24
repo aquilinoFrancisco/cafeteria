@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tiles-definitions PUBLIC
+        "-//Apache Software Foundation//DTD Tiles Configuration 3.0//EN"
+        "http://tiles.apache.org/dtds/tiles-config_3_0.dtd">
+<tiles-definitions>
+	<definition name="base.definition"
+		template="/WEB-INF/jsp/layout.jsp">
+		<put-attribute name="title" value="" />
+		<put-attribute name="header"
+			value="/WEB-INF/jsp/header.jsp" />
+		<put-attribute name="body" value="" />
+		<put-attribute name="footer"
+			value="/WEB-INF/jsp/footer.jsp" />
+		<put-attribute name="scriptStyles" value="" />
+	</definition>
+
+	<definition name="main-tiles" extends="base.definition">
+		<put-attribute name="title" value="Cafeteria" />
+		<put-attribute name="body"
+			value="/WEB-INF/jsp/login.jsp" />
+	</definition>
+
+	<definition name="viewAdmin-Tiles" extends="base.definition">
+		<put-attribute name="title" value="Cafeteria" />
+		<put-attribute name="body"
+			value="/WEB-INF/jsp/viewAdmin.jsp" />
+	</definition>
+
+	<definition name="viewAddProducto-Tiles"
+		extends="base.definition">
+		<put-attribute name="title" value="Cafeteria" />
+		<put-attribute name="body"
+			value="/WEB-INF/jsp/viewAddProducto.jsp" />
+	</definition>
+	
+	<definition name="viewUpdateProducto-Tiles"
+		extends="base.definition">
+		<put-attribute name="title" value="Cafeteria" />
+		<put-attribute name="body"
+			value="/WEB-INF/jsp/viewUpdateProducto.jsp" />
+	</definition>
+
+	<definition name="viewUser-Tiles" extends="base.definition">
+		<put-attribute name="title" value="Cafeteria" />
+		<put-attribute name="body"
+			value="/WEB-INF/jsp/viewUser.jsp" />
+	</definition>
+
+</tiles-definitions>
