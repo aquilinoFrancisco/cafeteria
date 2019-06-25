@@ -1,0 +1,36 @@
+label.titulo=Lista de productos 
+label.titulo2 = Edita el producto
+
+label.titulo1=Agrega 
+label.seleccion5=Bienvenido, Por favor registrate
+label.seleccion6=
+label.cantDisponible = Cantidad disponible
+label.precioUnitario = precio unitario
+label.caducidad=Caducidad: 
+label.estatus=Estatus:
+label.seguridad=Usuario
+label.seguridad1=Ingresa tu usuario
+label.password=Contraseña
+label.password1=aqui
+label.exit = Salir
+
+label.nombreProd=Nombre del producto
+label.update = Actualizar
+label.delete = Borrar
+
+label.ver=Ver detalles
+label.comprar=Comprar
+
+label.menu1=Temas
+label.menu2=Idiomas
+label.color1=Negro
+label.color2=Blanco
+label.espanol=Espa&ntilde;ol 
+label.ingles=Ingl&eacute;s
+label.pie=Copyright &copy; Derechos reservados spring.com.mx
+
+label.seleccion2=Selecciona tipo y cantidad de boletos
+label.total=Total a pagar: 
+label.continuar=Continuar
+label.cancelar=Cancelar
+label.atras=Atrás

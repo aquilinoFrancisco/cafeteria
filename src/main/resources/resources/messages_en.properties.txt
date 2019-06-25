@@ -1,0 +1,36 @@
+label.seleccion5=Welcome
+label.titulo=Product List 
+label.titulo2 = Edt product
+label.titulo1=Add
+label.cantDisponible = Avaible
+label.precioUnitario = unit cost
+label.caducidad=expiration: 
+label.estatus=Status:
+label.password = Password
+label.seguridad = User
+label.seguridad1 = user
+label.password1 = password
+label.exit = Exit
+
+label.titulo= New Product: 
+label.nombreProd=Name of product
+label.update = Update
+label.delete = Delete
+
+label.ver=See
+label.comprar=Buy
+
+label.menu1=Themes
+label.menu2=Languages
+label.color1=Black
+label.color2=White
+label.espanol=Spanish 
+label.ingles=Inglish
+label.pie=Copyright &copy; Reserved rights spring.com.mx
+
+label.seleccion2=Select
+label.total=Total: 
+label.continuar=Continue
+label.cancelar=Cancel
+label.atras=Back
+
