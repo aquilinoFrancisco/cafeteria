@@ -1,12 +1,3 @@
-
-
-Conversaciones
-5,34 GB (35%) ocupados de 15 GB
-Administrar
-Condiciones · Privacidad · Política del programa
-Última actividad de la cuenta: hace 28 minutos
-Detalles
-
 /*
 -- Creando el Esquema de : 'CafeteriaMexicana'
 --UNAM - IIMAS
